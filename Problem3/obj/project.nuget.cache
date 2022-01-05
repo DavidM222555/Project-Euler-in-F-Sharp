@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mpd4zB2MP8df0Nt/6427arRG7FholRlgr3M5znsxqrhcJ2IFZnYzWvQzBpTTYPaglcgBgstbTCSx2czZyMSBFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dpmar\\Desktop\\New Programming Problems\\Project-Euler-in-F-Sharp\\Problem3\\Problem3.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpmar\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
